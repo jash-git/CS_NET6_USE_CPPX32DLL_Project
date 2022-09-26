@@ -2,7 +2,7 @@
 
 public class Program
 {
-    ///*
+    //*
     [DllImport("./CB_BaseLib.dll", CallingConvention = CallingConvention.Cdecl, EntryPoint = "Add")]
     static extern double Add(double a, double b);
     //*/
