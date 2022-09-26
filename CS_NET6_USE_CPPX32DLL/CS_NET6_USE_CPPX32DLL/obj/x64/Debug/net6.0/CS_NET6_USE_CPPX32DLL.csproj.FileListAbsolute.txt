@@ -1,0 +1,17 @@
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\bin\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.exe
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\bin\x64\Debug\net6.0\CB_BaseLib.dll
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\bin\x64\Debug\net6.0\c_MathFuncsDll.dll
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\bin\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.deps.json
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\bin\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.runtimeconfig.json
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\bin\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.dll
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\bin\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.pdb
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.AssemblyInfoInputs.cache
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.AssemblyInfo.cs
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.dll
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\refint\CS_NET6_USE_CPPX32DLL.dll
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.pdb
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\CS_NET6_USE_CPPX32DLL.genruntimeconfig.cache
+C:\Users\devel\Desktop\CS_NET6_USE_CPPX32DLL\CS_NET6_USE_CPPX32DLL\obj\x64\Debug\net6.0\ref\CS_NET6_USE_CPPX32DLL.dll
